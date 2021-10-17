@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9804" started-at="2021-10-15T01:46:20 CDT" finished-at="2021-10-15T01:46:30 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9804" started-at="2021-10-15T01:46:20 CDT" finished-at="2021-10-15T01:46:30 CDT">
+      <class name="Challenge.PureChallenge.ValidateFooterLinks">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Challenge.PureChallenge.ValidateFooterLinks@cb51256]" name="initialize" is-config="true" duration-ms="7310" started-at="2021-10-15T01:46:20 CDT" finished-at="2021-10-15T01:46:28 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="validLandPage()[pri:0, instance:Challenge.PureChallenge.ValidateFooterLinks@cb51256]" name="validLandPage" duration-ms="15" started-at="2021-10-15T01:46:28 CDT" finished-at="2021-10-15T01:46:28 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLandPage -->
+        <test-method status="PASS" signature="validateLinks()[pri:0, instance:Challenge.PureChallenge.ValidateFooterLinks@cb51256]" name="validateLinks" duration-ms="1793" started-at="2021-10-15T01:46:28 CDT" finished-at="2021-10-15T01:46:30 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLinks -->
+        <test-method status="PASS" signature="teadDown()[pri:0, instance:Challenge.PureChallenge.ValidateFooterLinks@cb51256]" name="teadDown" is-config="true" duration-ms="649" started-at="2021-10-15T01:46:30 CDT" finished-at="2021-10-15T01:46:30 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teadDown -->
+      </class> <!-- Challenge.PureChallenge.ValidateFooterLinks -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
